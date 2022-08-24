@@ -29,3 +29,6 @@ GeothermoTool uses MS Excel XLSX and CSV (Comma Separated Values) files formats 
 
 GeothermoTool is distributed under the GNU General Public License, version 3:
 http://www.gnu.org/copyleft/gpl.html
+
+#Cite
+Hu, J., Tian, Y., Li, Z., Jiang, G., Zuo, Y., Zhang, C., Wang, Y., Wang, Y., and Hu, S., 2022, GeothermoTool: An open-source software for basic geothermal calculations and plots: Geothermics, v. 106.
