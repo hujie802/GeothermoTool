@@ -24,11 +24,9 @@ GeothermoTool uses MS Excel XLSX and CSV (Comma Separated Values) files formats 
  The plotting results can be saved in various file formats, including bitmap and vectorgraph, which can be reedited in Adobe Illustrator and CorelDraw. For batch computing, we just need to choose the data folder. GeothermoTool will automatically create a folder named “[name of input folder]+_output” and put the calculated results and plotted figures into the file.
 
 
+# Cite
+Hu, J., Tian, Y., Li, Z., Jiang, G., Zuo, Y., Zhang, C., Wang, Y., Wang, Y., and Hu, S., 2022, GeothermoTool: An open-source software for basic geothermal calculations and plots: Geothermics, v. 106.
 
 # License
-
 GeothermoTool is distributed under the GNU General Public License, version 3:
 http://www.gnu.org/copyleft/gpl.html
-
-#Cite
-Hu, J., Tian, Y., Li, Z., Jiang, G., Zuo, Y., Zhang, C., Wang, Y., Wang, Y., and Hu, S., 2022, GeothermoTool: An open-source software for basic geothermal calculations and plots: Geothermics, v. 106.
